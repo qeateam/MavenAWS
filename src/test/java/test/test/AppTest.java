@@ -23,6 +23,7 @@ public class AppTest
         System.out.println("Inside APPTEST");
         TestClass objTestClass = new TestClass();
         objTestClass.mainTest();
+        System.out.println("DONE!!!");
     }
 
     /**
